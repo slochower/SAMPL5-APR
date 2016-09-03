@@ -29,6 +29,7 @@ mdout*
 .Trashes
 ehthumbs.db
 Thumbs.db
+.directory
 
 # SSL files
 *.pem
